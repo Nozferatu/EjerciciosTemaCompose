@@ -128,7 +128,7 @@ fun EjercicioFormulario(modifier: Modifier = Modifier) {
 
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
-fun GreetingPreview() {
+fun EjercicioFormularioPreview() {
     EjerciciosTemaComposeTheme {
         Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
             EjercicioFormulario(
