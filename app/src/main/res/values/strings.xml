@@ -4,4 +4,5 @@
     <string name="title_activity_ejercicio2">Ejercicio2Activity</string>
     <string name="title_activity_ejercicio3">Ejercicio3Activity</string>
     <string name="title_activity_ejercicio4">Ejercicio4Activity</string>
+    <string name="title_activity_ejercicio_formulario">EjercicioFormularioActivity</string>
 </resources>
