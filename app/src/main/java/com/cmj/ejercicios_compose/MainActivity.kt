@@ -64,6 +64,8 @@ fun Inicio(modifier: Modifier = Modifier) {
 
         BotonEjercicio("Ejercicio 3", contexto, Ejercicio3Activity::class.java)
 
+        BotonEjercicio("Ejercicio 4", contexto, Ejercicio4Activity::class.java)
+
         Spacer(modifier = Modifier.weight(1f))
     }
 }
