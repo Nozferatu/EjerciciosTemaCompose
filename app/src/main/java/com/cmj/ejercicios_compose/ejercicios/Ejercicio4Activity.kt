@@ -1,4 +1,4 @@
-package com.cmj.ejercicios_compose
+package com.cmj.ejercicios_compose.ejercicios
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

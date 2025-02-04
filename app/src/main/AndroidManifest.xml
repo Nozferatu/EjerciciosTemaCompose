@@ -18,7 +18,7 @@
             android:label="@string/title_activity_ejercicio_formulario"
             android:theme="@style/Theme.EjerciciosTemaCompose" />
         <activity
-            android:name=".Ejercicio4Activity"
+            android:name=".ejercicios.Ejercicio4Activity"
             android:exported="false"
             android:label="@string/title_activity_ejercicio4"
             android:theme="@style/Theme.EjerciciosTemaCompose" />
