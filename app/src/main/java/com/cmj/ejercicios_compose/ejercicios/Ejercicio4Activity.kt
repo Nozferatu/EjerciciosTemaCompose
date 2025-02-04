@@ -142,5 +142,7 @@ fun Ejercicio4(modifier: Modifier = Modifier) {
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun Ejercicio4Preview(){
-    Ejercicio4()
+    Scaffold { innerPadding ->
+        Ejercicio4(modifier = Modifier.padding(innerPadding))
+    }
 }
