@@ -13,6 +13,11 @@
         android:theme="@style/Theme.EjerciciosTemaCompose"
         tools:targetApi="31">
         <activity
+            android:name=".ejercicios.Ejercicio5Activity"
+            android:exported="false"
+            android:label="@string/title_activity_ejercicio5"
+            android:theme="@style/Theme.EjerciciosTemaCompose" />
+        <activity
             android:name=".EjercicioFormularioActivity"
             android:exported="false"
             android:label="@string/title_activity_ejercicio_formulario"
